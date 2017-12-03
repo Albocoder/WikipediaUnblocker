@@ -7,9 +7,13 @@ This is a simple chrome extension that unblocks wikipedia in Turkey. NO VPN NEED
 3.  Copy and paste the following to the URL bar: `chrome://extensions`
 4.  Drag and drop the downloaded file to the opened tab in Chrome.
 
-Now you can click the Wikipedia links that show up in the Google search. ENJOY! ^_^
+<i>Now you can click the Wikipedia links that show up in the Google search. ENJOY! ^_^</i>
+
+
+#### Advanced install (not recommended)
+If you dont trust the link I provided then clone this repository and load the unpacked extension as developer.(Google how to do it)
+
+## FREEDOM OF INFORMATION PREVAILS!!!
 
 Drop a star if you like it ^_^ 
 <br>THANK YOU!!!
-
-### FREEDOM OF INFORMATION PREVAILS!!! 

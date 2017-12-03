@@ -1,0 +1,13 @@
+{
+  "name": "Wikipedia Unblocker",
+  "version": "1.1",
+	"description": "Acceses wikipedia with a smart bypass without the need for VPN.",
+  "manifest_version": 2,
+	"icons": {"16":"icon.png","32":"icon.png","24":"icon.png"},
+  "permissions": ["tabs","webRequest","webRequestBlocking","http://*.wikipedia.org/*","https://*.wikipedia.org/*"],
+  "background": {
+		"scripts": [
+		"modifyheader.js"
+		]
+	}
+}
